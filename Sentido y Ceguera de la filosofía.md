@@ -1,0 +1,6 @@
+Manuel García mórente, nos introduce a la filosofía, con un amplio y vasto contexto conceptual e histórico, para él la filosofía es algo que no es debido [conceptualizarse](./Concepto.md#), ya que caeríamos en algo burdo y simple, como lo es el conocimiento popular (Algo que debemos de evitar sí queremos conservar el espíritu de la filosofía, del siempre dudar y ver todo como un problema)
+Entonces, ¿cómo nos introduce su sistema filosófico?
+Empezamos describiendo la filosofía tal y como se la describiría Aristóteles en el año VI A.C, “==El saber de todas las cosas==” 
+¿Qué involucraba entonces todas las cosas?
+Todo aquello hoy en día consideramos ciencias exactas, como las matemáticas, la física (que en ese entonces era considerada como un tipo de filosofía de la naturaleza), la política, la ética, la estética, la metafísica y ontología. 
+Poco a poco cada una de estas ramas han ido separándose y enfocándose a su objeto de estudio, aquí hay que aclarar que cuando un área de estudio se enfoca en un objeto determinado en la existencia, lo singular, como lo son los números, las dinámicas físicas, etc. Estas van separándose del estudio general y la base que ofreció la filosofía, para singularizarse
