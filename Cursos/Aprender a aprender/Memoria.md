@@ -1,0 +1,1 @@
+La capacidad mental para codificar, almacenar y recuperar información del pasado, como experiencias, sentimientos, imágenes, hechos y habilidades.
